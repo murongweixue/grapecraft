@@ -1,0 +1,7 @@
+{
+  "block.grapecraft.vertical_planting_rack_block": "Planting Rack",
+  "block.grapecraft.horizontal_planting_rack_block": "Planting Rack",
+  "item.grapecraft.grape": "Grape",
+  "item.grapecraft.grape_seeds": "Grape Seeds",
+  "itemGroup.grapecraft.test_group": "Grape Craft"
+}

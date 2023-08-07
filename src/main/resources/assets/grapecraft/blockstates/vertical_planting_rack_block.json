@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "planted=true": {"model": "grapecraft:block/vertical_planting_rack_block_planted"},
+    "planted=false": {"model": "grapecraft:block/vertical_planting_rack_block"}
+  }
+}

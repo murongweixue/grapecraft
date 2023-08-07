@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 800,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "grapecraft:grape"
+  },
+  "result": {
+    "count": 9,
+    "item": "grapecraft:raisins"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "planted=false,connected=false": {"model": "grapecraft:block/horizontal_planting_rack_block"},
+    "planted=true,connected=false": {"model": "grapecraft:block/horizontal_planting_rack_block_planted"},
+    "planted=false,connected=true": {"model": "grapecraft:block/horizontal_planting_rack_block_connected"},
+    "planted=true,connected=true": {"model": "grapecraft:block/horizontal_planting_rack_block_planted_connected"}
+  }
+}

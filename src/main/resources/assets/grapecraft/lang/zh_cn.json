@@ -1,0 +1,7 @@
+{
+  "block.grapecraft.vertical_planting_rack_block": "种植架",
+  "block.grapecraft.horizontal_planting_rack_block": "种植架",
+  "item.grapecraft.grape": "葡萄",
+  "item.grapecraft.grape_seeds": "葡萄籽",
+  "itemGroup.grapecraft.test_group": "葡萄工艺"
+}
